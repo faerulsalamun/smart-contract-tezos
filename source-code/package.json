@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@taquito/signer": "^13.0.0",
+    "@taquito/taquito": "^13.0.0",
+    "dotenv": "^16.0.1"
+  }
+}
